@@ -40,14 +40,6 @@ In this analysis, we are considering only Green dots and the program will count 
 ## CNN analysis
 CNN analysis is also termed as a whole methylation. In this analysis, we are considering the whole methylation i.e., irrespective of CG and CHG methylation. So, the program initially convert the entire image to an image with only Green dots (CG and CHG to Green dots). In the CNN analysis, we will get the larget possible stretch in the each row.
 
-```
-System requirements
-1.Windows or Mac OS
-2.Python 3.7
-3.Anaconda3-2020
-4.Jupyter Notebook
-
-```
 ## Methodology
 
 In this analysis, OpenCV library was used to detect the stretches from the dot plots. Template matching strategy from the OpenCV was used.
@@ -69,6 +61,15 @@ Steps to match Templates
   <img src="Samples/Picture8.PNG" width="500"/>
   <img src="Samples/Picture9.PNG" width="500"/>
 </p>
+
+```
+System requirements
+1.Windows or Mac OS
+2.Python 3.7
+3.Anaconda3-2020
+4.Jupyter Notebook
+
+```
 
 
 
