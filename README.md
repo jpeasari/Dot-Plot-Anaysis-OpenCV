@@ -29,4 +29,13 @@ In this analysis, we are considering only Green dots and the program will count 
 ## CNN analysis
 CNN analysis is also termed as a whole methylation. In this analysis, we are considering the whole methylation i.e., irrespective of CG and CHG methylation. So, the program initially convert the entire image to an image with only Green dots (CG and CHG to Green dots).
 
+```
+System requirements
+1.	Windows or Mac OS
+2.	Python 3.7
+3.	Anaconda3-2020
+4.	Jupyter Notebook
+
+```
+
 
