@@ -7,5 +7,5 @@ Types of methylation pattern analysis
   <img src="Samples/Picture3.png" width="170" /> 
 </p>
 <p>
-    <em>CHH analysis                    CNN analysis</em>
+    <em>CHH analysis and CNN analysis</em>
 </p>
