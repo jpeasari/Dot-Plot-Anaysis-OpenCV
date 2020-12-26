@@ -3,7 +3,7 @@
 RNA directed DNA methylation (RdDM). A stretch of methylation signifies strong RdDM, whereas intermittent methylation 
 suggest inefficient maintenance of methylation and not RdDM. Here, we were trying to differentiate long stretches from short stretches.
 
-* Types of methylation.
+* Types of methylation
 
   CG - Cytosine is immediately follwed any a Guanine
   
@@ -21,3 +21,5 @@ suggest inefficient maintenance of methylation and not RdDM. Here, we were tryin
 <p>
     <em>CHH analysis and CNN analysis</em>
 </p>
+
+
