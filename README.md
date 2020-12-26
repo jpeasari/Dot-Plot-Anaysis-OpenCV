@@ -13,6 +13,7 @@ suggest inefficient maintenance of methylation and not RdDM. Here, we were tryin
   
 
 * Types of methylation pattern analysis
+
 <p float="left">
   <img src="Samples/Picture1.png" width="200"/>
   <img src="Samples/Picture3.png" width="170" /> 
