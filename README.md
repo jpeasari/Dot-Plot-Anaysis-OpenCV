@@ -11,8 +11,8 @@ Template Matching techniques are expected to address the following need: provide
 Template Matching method, although which is insufficient for real-life applications illustrates the core concept from which the actual Template Matching algorithms stem from. This method can be  enhanced and extended in advanced Grayscale-based Matching and Edge-based Matching routines.
 
 
-** RNA directed DNA methylation (RdDM). A stretch of methylation signifies strong RdDM, whereas intermittent methylation 
-suggest inefficient maintenance of methylation and not RdDM. Here, we were trying to differentiate long stretches from short stretches **
+**RNA directed DNA methylation (RdDM). A stretch of methylation signifies strong RdDM, whereas intermittent methylation 
+suggest inefficient maintenance of methylation and not RdDM. Here, we were trying to differentiate long stretches from short stretches**
 
 * Types of methylation
 
