@@ -1,3 +1,2 @@
 # Dot plot analysis OpenCV
-Identifying RdDM strength based on methylation pattern 
-* [John](#john)
+Identifying RdDM strength based on the methylation pattern 
