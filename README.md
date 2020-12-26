@@ -6,3 +6,6 @@ Types of methylation pattern analysis
   <img src="Samples/Picture1.png" width="200"/>
   <img src="Samples/Picture3.png" width="170" /> 
 </p>
+<p>
+    <em>CHH analysis</em>
+</p>
