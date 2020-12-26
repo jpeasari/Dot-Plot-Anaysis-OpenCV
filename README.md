@@ -5,7 +5,10 @@ suggest inefficient maintenance of methylation and not RdDM. Here, we were tryin
 
 * Types of methylation.
 
-  CHH - Cytosine is immediately follwed any residue
+  CG - Cytosine is immediately follwed any a Guanine
+  CHG - Cytosine followed by any nucleotide, expect Gaunine and immediately followed by A Guanine
+  CHH - No Gaunine around Cytosine nucleotide
+  
 
 
 Types of methylation pattern analysis
