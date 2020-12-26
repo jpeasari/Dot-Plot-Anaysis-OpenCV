@@ -110,9 +110,10 @@ Steps to run the program
 
 7.Once you are confident in getting all the rows, run the program and get the final counts.
 
-About:
+**Description**
 
 Images - folder cotains dot plots
+
 Image_analysis - Jupyter Notebook
 
 
