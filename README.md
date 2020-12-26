@@ -65,8 +65,11 @@ Steps to match Templates
 ## Software requirement
 
 1.Windows or Mac OS
+
 2.Python 3.7  (any python version higher than this is better)
+
 3.Anaconda3-2020
+
 4.Jupyter Notebook
 
 If you install anaconda software, all other requirements will be satisfied. You do not need to install jupyter notebook or python separately
