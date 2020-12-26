@@ -1,5 +1,16 @@
 # Identifying RdDM strength based on the methylation pattern.
 
+## Introduction
+
+Template Matching is a high-level machine vision technique that identifies the parts on an image that match a predefined template. Advanced template matching algorithms allow to find occurrences of the template regardless of their orientation and local brightness.
+
+Template Matching techniques are flexible and relatively straightforward to use, which makes them one of the most popular methods of object localization. Their applicability is limited mostly by the available computational power, as identification of big and complex templates can be time-consuming.
+
+Template Matching techniques are expected to address the following need: provided a reference image of an object (the template image) and an image to be inspected (the input image) we want to identify all input image locations at which the object from the template image is present. Depending on the specific problem at hand, we may (or may not) want to identify the rotated or scaled occurrences.
+
+Template Matching method, although which is insufficient for real-life applications illustrates the core concept from which the actual Template Matching algorithms stem from. This method can be  enhanced and extended in advanced Grayscale-based Matching and Edge-based Matching routines.
+
+
 RNA directed DNA methylation (RdDM). A stretch of methylation signifies strong RdDM, whereas intermittent methylation 
 suggest inefficient maintenance of methylation and not RdDM. Here, we were trying to differentiate long stretches from short stretches.
 
@@ -27,7 +38,7 @@ suggest inefficient maintenance of methylation and not RdDM. Here, we were tryin
 In this analysis, we are considering only Green dots and the program will count the length of a stretch and how many number of that particular stretche is available in the entire image.
 
 ## CNN analysis
-CNN analysis is also termed as a whole methylation. In this analysis, we are considering the whole methylation i.e., irrespective of CG and CHG methylation. So, the program initially convert the entire image to an image with only Green dots (CG and CHG to Green dots).
+CNN analysis is also termed as a whole methylation. In this analysis, we are considering the whole methylation i.e., irrespective of CG and CHG methylation. So, the program initially convert the entire image to an image with only Green dots (CG and CHG to Green dots). In the CNN analysis, we will get the larget possible stretch in the each row.
 
 ```
 System requirements
