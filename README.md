@@ -37,7 +37,7 @@ System requirements
 4.Jupyter Notebook
 
 ```
-## Analysis
+## Methodology
 
 In this analysis, OpenCV library was used to detect the stretches from the dot plots. Template matching strategy from the OpenCV was used.
 The Template matching is a technique, by which a patch or template can be matched from an actual image. This is basically a pattern matching mechanism.
@@ -53,6 +53,15 @@ Steps to match Templates
 •	The template slides over the actual image and find the location where accuracy level matches.
 
 •	When result is greater than the accuracy level, mark that position as detected.
+
+<p float="left">
+  <img src="Samples/Picture1.png" width="200"/>
+</p>
+<p>
+    <em>CHH analysis and CNN analysis</em>
+</p>
+
+
 
 
 
