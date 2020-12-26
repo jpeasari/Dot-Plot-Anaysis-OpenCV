@@ -23,4 +23,7 @@ suggest inefficient maintenance of methylation and not RdDM. Here, we were tryin
     <em>CHH analysis and CNN analysis</em>
 </p>
 
+## CHH analysis
+* In this analysis, we are considering GREEN dots and the program will count the length of a stretch and how many number of that particular stretches are available in the entire image
+
 
