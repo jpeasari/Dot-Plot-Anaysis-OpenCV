@@ -2,6 +2,7 @@
 Identifying RdDM strength based on the methylation pattern 
 
 Types of methylation pattern analysis
+
 CHH                               CNN
 <p float="left">
   <img src="Samples/Picture1.png" width="200" />
