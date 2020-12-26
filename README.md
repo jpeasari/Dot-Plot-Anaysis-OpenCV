@@ -55,8 +55,8 @@ Steps to match Templates
 •	When result is greater than the accuracy level, mark that position as detected.
 
 <p float="left">
-  <img src="Samples/Picture8.png" width="200"/>
-  <img src="Samples/Picture9.png" width="200"/>
+  <img src="Samples/Picture8.PNG" width="200"/>
+  <img src="Samples/Picture9.PNG" width="200"/>
 </p>
 
 
