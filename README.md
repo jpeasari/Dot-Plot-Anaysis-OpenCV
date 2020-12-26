@@ -84,13 +84,32 @@ If you install anaconda software, all other requirements will be satisfied. You 
 
 ### Installing python libraries
 
-      After installing anaconda and setting up your jupyter notebook. You must install OpenCV latest version for the program to run.
+After installing anaconda and setting up your jupyter notebook. You must install OpenCV latest version for the program to run.
 
-      Step1. Open your jupyter notebook in any directory in your local machine.
+Step1. Open your jupyter notebook in any directory in your local machine.
 
-      Step2. Type: pip install OpenCV-python and execute that cell.
+Step2. Type: pip install OpenCV-python and execute that cell.
 
-      Step3. Check your installation by typing import cv2.
+Step3. Check your installation by typing import cv2.
+
+## Running program
+
+Steps to run the program
+
+1.Load the input or source image.
+
+2.Determine the total rows (rough count by just looking at the image).
+
+3.Set the row number in the program.
+
+4.Get each row from the input image and save them to Targets folder.
+
+5.Make sure that you are getting full length row and total rows from the input image.
+
+6.Make sure you are having appropriate template images in the folder Templates.
+
+7.Once you are confident in getting all the rows, run the program and get the final counts.
+
 
 
 
