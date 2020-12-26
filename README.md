@@ -57,10 +57,6 @@ Steps to match Templates
 <p float="left">
   <img src="Samples/Picture8.png" width="200"/>
   <img src="Samples/Picture9.png" width="200"/>
-  
-</p>
-<p>
-    <em>Methodology</em>
 </p>
 
 
