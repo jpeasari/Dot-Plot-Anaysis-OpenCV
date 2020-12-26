@@ -12,8 +12,7 @@ suggest inefficient maintenance of methylation and not RdDM. Here, we were tryin
   CHH - No Gaunine around Cytosine nucleotide
   
 
-
-Types of methylation pattern analysis
+* Types of methylation pattern analysis
 <p float="left">
   <img src="Samples/Picture1.png" width="200"/>
   <img src="Samples/Picture3.png" width="170" /> 
