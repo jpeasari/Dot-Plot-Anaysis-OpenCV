@@ -62,14 +62,23 @@ Steps to match Templates
   <img src="Samples/Picture9.PNG" width="500"/>
 </p>
 
-```
-System requirements
-1.Windows or Mac OS
-2.Python 3.7
-3.Anaconda3-2020
-4.Jupyter Notebook
+Installing software’s
 
-```
+1.	Windows or Mac OS
+2.	Python 3.7  (any python version higher than this is better)
+3.	Anaconda3-2020
+4.	Jupyter Notebook
+
+If you install anaconda software, all other requirements will be satisfied. You do not need to install jupyter notebook or python separately
+
+	Install python(if required): https://www.youtube.com/watch?v=4Rx_JRkwAjY
+
+	Anaconda installation tutorial (Windows): https://www.youtube.com/watch?v=5mDYijMfSzs
+
+	Anaconda installation tutorial (Mac OS):https://understandingdata.com/how-to-install-anaconda-mac-os/
+
+	Jupyter notebook tutorial: https://www.youtube.com/watch?v=3C9E2yPBw7s
+
 
 
 
