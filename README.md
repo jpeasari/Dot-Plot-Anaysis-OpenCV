@@ -4,6 +4,7 @@ RNA directed DNA methylation (RdDM). A stretch of methylation signifies strong R
 suggest inefficient maintenance of methylation and not RdDM. Here, we were trying to differentiate long stretches from short stretches.
 
 * Types of methylation.
+
   CHH - Cytosine is immediately follwed any residue
 
 
