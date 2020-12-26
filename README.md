@@ -45,9 +45,13 @@ In Python there is OpenCV module. Using OpenCV, we can easily find the match. So
 For template matching task, there is an accuracy factor, this factor is known as threshold. As an example, we can say that we can easily create face recognizing scheme using this template matching solution. We can provide some images of eyes or any other parts of faces, then using those images as template, it can easily find the match, but there are different variations in eyes. So, if we set the accuracy level to 50%, it will detect better than accuracy level 100%.Generally, the accuracy level is 80% in different cases.
 
 Steps to match Templates
+
 •	Take the actual image and convert it into a gray scale image.
+
 •	Take template as gray scale image.
+
 •	The template slides over the actual image and find the location where accuracy level matches.
+
 •	When result is greater than the accuracy level, mark that position as detected.
 
 
