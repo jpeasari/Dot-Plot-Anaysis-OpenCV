@@ -82,15 +82,15 @@ If you install anaconda software, all other requirements will be satisfied. You 
 
 - Jupyter notebook tutorial: https://www.youtube.com/watch?v=3C9E2yPBw7s
 
-* Installing python libraries
+### Installing python libraries
 
-After installing anaconda and setting up your jupyter notebook. You must install OpenCV latest version for the program to run.
+      After installing anaconda and setting up your jupyter notebook. You must install OpenCV latest version for the program to run.
 
-Step1. Open your jupyter notebook in any directory in your local machine.
+      Step1. Open your jupyter notebook in any directory in your local machine.
 
-Step2. Type: pip install OpenCV-python and execute that cell.
+      Step2. Type: pip install OpenCV-python and execute that cell.
 
-Step3. Check your installation by typing import cv2.
+      Step3. Check your installation by typing import cv2.
 
 
 
