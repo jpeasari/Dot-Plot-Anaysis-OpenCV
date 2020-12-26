@@ -24,9 +24,9 @@ suggest inefficient maintenance of methylation and not RdDM. Here, we were tryin
 </p>
 
 ## CHH analysis
-In this analysis, we are considering only GREEN dots and the program will count the length of a stretch and how many number of that particular stretche is available in the entire image
+In this analysis, we are considering only Green dots and the program will count the length of a stretch and how many number of that particular stretche is available in the entire image.
 
 ## CNN analysis
-CNN analysis is also termed as a whole methylation. In this analysis, we are considering the whole methylation i.e., irrespective of CG and CHG methylation.So, the program initially convert the entire image to CHH methylation (CG and CHG to Green dots).
+CNN analysis is also termed as a whole methylation. In this analysis, we are considering the whole methylation i.e., irrespective of CG and CHG methylation. So, the program initially convert the entire image to an image with only Green dots (CG and CHG to Green dots).
 
 
