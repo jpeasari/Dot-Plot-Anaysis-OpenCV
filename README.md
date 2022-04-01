@@ -112,9 +112,9 @@ Steps to run the program
 
 **Description**
 
-Images - folder cotains dot plots
+Images - folder contains dot plots
 
-Image_analysis - Jupyter Notebook
+Image_analysis -folder  Jupyter Notebook
 
 
 
