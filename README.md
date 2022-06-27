@@ -35,10 +35,10 @@ suggest inefficient maintenance of methylation and not RdDM. Here, we were tryin
 </p>
 
 ## CHH analysis
-In this analysis, we are considering only Green dots and the program will count the length of a stretch and how many number of that particular stretche is available in the entire image.
+In this analysis, we are considering only Green dots and the program will count the length of a stretch and how many number of that particular stretch is available on the entire image.
 
 ## CNN analysis
-CNN analysis is also termed as a whole methylation. In this analysis, we are considering the whole methylation i.e., irrespective of CG and CHG methylation. So, the program initially convert the entire image to an image with only Green dots (CG and CHG to Green dots). In the CNN analysis, we will get the larget possible stretch in the each row.
+CNN analysis is also termed as a whole methylation. In this analysis, we are considering the whole methylation i.e., irrespective of CG and CHG methylation. So, the program initially converts the entire image to an image with only Green dots (CG and CHG to Green dots). In the CNN analysis, we will get the larget possible stretch in the each row.
 
 ## Methodology
 
@@ -86,7 +86,7 @@ If you install anaconda software, all other requirements will be satisfied. You 
 
 After installing anaconda and setting up your jupyter notebook. You must install OpenCV latest version for the program to run.
 
-Step1. Open your jupyter notebook in any directory in your local machine.
+Step1. Open your jupyter notebook in any directory on your local machine.
 
 Step2. Type: pip install OpenCV-python and execute that cell.
 
