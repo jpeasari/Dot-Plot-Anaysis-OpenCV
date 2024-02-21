@@ -1,3 +1,5 @@
+# Sigman, M.J., Panda, K., Kirchner, R. et al. An siRNA-guided ARGONAUTE protein directs RNA polymerase V to initiate DNA methylation. Nat. Plants 7, 1461–1474 (2021). https://doi.org/10.1038/s41477-021-01008-7
+
 # Identifying RdDM strength based on the methylation pattern.
 
 ## Introduction
